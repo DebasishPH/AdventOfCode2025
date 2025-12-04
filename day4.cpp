@@ -104,6 +104,7 @@ int main()
     int curr = 0;
 
     // printGrid(grid);
+    // Just Remove this Loop For Part 1 
     do{
         curr = evaluateGrid(grid);
         total += curr;
